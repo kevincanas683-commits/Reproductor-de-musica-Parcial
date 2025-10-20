@@ -1,0 +1,70 @@
+{
+  "artistas": [
+    {
+      "nombre": "Bad Bunny",
+      "tipo": "Solista",
+      "pais": "Puerto Rico",
+      "imagen": "src/recursos/imagenes/badbunny.jpg",
+      "canciones": [
+        {
+          "titulo": "Callaita",
+          "duracion": "4:12",
+          "ano": "2019",
+          "genero": "Reggaeton",
+          "archivo": "src/recursos/canciones/callaita.WAV"
+        },
+        {
+          "titulo": "Titi me preguntó",
+          "duracion": "4:04",
+          "ano": "2022",
+          "genero": "Reggaeton",
+          "archivo": "src/recursos/canciones/titi.WAV"
+        }
+      ]
+    },
+    {
+      "nombre": "Blessd",
+      "tipo": "Solista",
+      "pais": "Colombia",
+      "imagen": "src/recursos/imagenes/blessd.jpg",
+      "canciones": [
+        {
+          "titulo": "Yogurcito",
+          "duracion": "3:45",
+          "ano": "2021",
+          "genero": "Urbano",
+          "archivo": "src/recursos/canciones/yogurcito.WAV"
+        },
+        {
+          "titulo": "Mirame",
+          "duracion": "3:30",
+          "ano": "2020",
+          "genero": "Trap",
+          "archivo": "src/recursos/canciones/mirame.WAV"
+        }
+      ]
+    },
+    {
+      "nombre": "Maluma",
+      "tipo": "Solista",
+      "pais": "Colombia",
+      "imagen": "src/recursos/imagenes/maluma.jpg",
+      "canciones": [
+        {
+          "titulo": "Borro Cassette",
+          "duracion": "3:18",
+          "ano": "2020",
+          "genero": "Pop Urbano",
+          "archivo": "src/recursos/canciones/borro_casette.WAV"
+        },
+        {
+          "titulo": "Felices los 4",
+          "duracion": "3:49",
+          "ano": "2017",
+          "genero": "Pop Urbano",
+          "archivo": "src/recursos/canciones/felices_los_4.WAV"
+        }
+      ]
+    }
+  ]
+}
